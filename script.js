@@ -1,6 +1,4 @@
-// ==============================
-// Course Modal
-// ==============================
+
 
 function showCourse(courseName) {
 
@@ -25,9 +23,7 @@ function closeCourse() {
 }
 
 
-// ==============================
-// Enquiry Form
-// ==============================
+
 
 const form = document.getElementById("enquiryForm");
 const message = document.getElementById("formMessage");
@@ -72,9 +68,7 @@ if (form) {
 }
 
 
-// ==============================
-// Mobile Menu
-// ==============================
+
 
 function toggleMenu() {
 
@@ -85,9 +79,7 @@ function toggleMenu() {
 }
 
 
-// ==============================
-// Student Progress
-// ==============================
+
 
 function updateProgress() {
 
@@ -121,9 +113,7 @@ function updateProgress() {
 }
 
 
-// ==============================
-// Active Navbar
-// ==============================
+
 
 const sections =
     document.querySelectorAll("section");
